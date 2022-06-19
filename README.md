@@ -1,5 +1,8 @@
 # aisle-developer-challenge
 
+## entry point
+* main.js
+
 ### Assumptions
 * As there are some categories on which basic sales tax is exempted and there was no label or tag present in the input item. Thus, one of these tags ['book', 'medicine', 'food'] should be present in the input item to exempt an inptu item from tax.
 ```
